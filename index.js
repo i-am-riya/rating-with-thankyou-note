@@ -13,11 +13,10 @@ const ratingValue = document.getElementById("ratingValue");
 
 stars.forEach((star) => {
   star.addEventListener("click", () => {
-    const rating = parseInt(star.getAttribute("data-value"));
-    // console.log(rating);
-    return rating;
-});
-// console.log(rating);
-
-ratingValue.textContent = '${rating}';
+    star.style.color = 'var(--primary-Orange)';
+    star.style.background = 'var(--Medium-Grey)';
+    let rating = parseInt(star.getAttribute('data-value'));
+    console.log(rating);
+    ratingValue.textContent = `${rating}`;
+  });
 });

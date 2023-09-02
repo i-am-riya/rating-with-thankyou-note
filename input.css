@@ -80,11 +80,6 @@ p{
     cursor: pointer;
 }
 
-/* .circles:active{
-    background-color: var(--Medium-Grey);
-    color: var(--White);
-} */
-
 .circles:hover{
     background-color: var(--primary-Orange);
     color: var(--White);

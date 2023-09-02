@@ -8,7 +8,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [The challenge](#the-challenge)
   - [Links](#links)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -34,8 +33,3 @@ Users should be able to:
 - CSS Grid
 - Javascript
 - Mobile-first workflow
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
