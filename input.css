@@ -85,7 +85,7 @@ p{
     color: var(--White);
 }
 
-.circles:active{
+.checked{
     color: var(--primary-Orange);
     background-color: var(--Medium-Grey);
     
@@ -148,4 +148,13 @@ h2{
     padding: 15px 0;
     text-align: center;
     
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
