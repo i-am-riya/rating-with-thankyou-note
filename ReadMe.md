@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/i-am-riya/rating-with-thankyou-note)
-- Live Site URL: [Add live site URL here](https://i-am-riya.github.io/rating-with-thankyou-note/)
+- Solution URL: [https://github.com/i-am-riya/rating-with-thankyou-note]
+- Live Site URL: [https://i-am-riya.github.io/rating-with-thankyou-note/]
 
 ### Built with
 
